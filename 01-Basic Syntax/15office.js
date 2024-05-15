@@ -3,8 +3,7 @@ function furnishing(first) {
   let third = first + second + ((first + second) * 0.15);
   let totalCost = first + second + third;
 
-  totalCost = totalCost.toFixed(3);
-  console.log(totalCost);  
+  console.log(totalCost.toFixed(3));  
 }
 
 furnishing(720.50);
