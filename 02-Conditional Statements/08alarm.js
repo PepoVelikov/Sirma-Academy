@@ -14,4 +14,4 @@ function alarm(hour, minutes) {
   console.log(formatted);
 }
 
-alarm(11, 07);
+alarm(11, 7);
