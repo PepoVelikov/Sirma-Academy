@@ -11,4 +11,4 @@ function climateZoneIdentifier(latitude, hemisphere) {
   }
 }
 
-climateZoneIdentifier(0, 'S')
+climateZoneIdentifier(0, 'S');
