@@ -13,4 +13,4 @@ function solve(num) {
   console.log(sum);
 }
 
-solve(10); // Output: 54
+solve(10);
